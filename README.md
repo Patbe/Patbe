@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Patbe
+- 👋 Hi, I’m Patrick
 - 👀 I’m interested in investing & finance
 - 🌱 I’m currently learning Python and R
 
