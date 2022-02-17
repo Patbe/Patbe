@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick
 - 👀 I’m interested in investing & finance
-- 🌱 I’m currently learning Javascript and Django
+- 🌱 I’m currently learning JavaScript and Django
 
 
 <!---
